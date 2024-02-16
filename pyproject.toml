@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "openfisk"
-version = "1.0.0"
+version = "0.1.0"
 description = "OpenFisk is an open-source Python library that collects functions for tax-related calculations."
 authors = ["Thijs Franck <thijsfranck@gmail.com>"]
 readme = "README.md"
