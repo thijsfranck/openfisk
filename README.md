@@ -2,7 +2,7 @@
 
 OpenFisk is an open-source Python library that collects functions for tax-related calculations.
 
-<img src="assets/openfisk.webp" alt="OpenFisk Logo" width="300px"/>
+<img src="https://repository-images.githubusercontent.com/758609579/cf155288-4800-4c9c-90af-d8e6a8b3289d" alt="OpenFisk Logo" width="300px"/>
 
 ## Features
 
